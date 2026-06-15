@@ -1,7 +1,7 @@
 # André Dias Moreira Prol
 
 **Senior IT Manager | Blockchain & Web3 Developer | AI Researcher | CEH**  
-📍 Rio de Janeiro, Brazil &nbsp;|&nbsp; 🌐 [andreprol.com.br](https://andreprol.com.br) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/andre-prol)
+📍 Rio de Janeiro, Brazil &nbsp;|&nbsp; 🌐 [andreprol.com.br](https://andreprol.com.br) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/andre-dias-moreira-prol) &nbsp;|&nbsp; ✍️ [Medium](https://medium.com/@andreprol)
 
 ---
 
@@ -70,7 +70,8 @@ Leading the full IT stack for a national food & retail chain with 6 major locati
 ## 📫 Get in Touch
 
 - 🌐 **Portfolio:** [andreprol.com.br](https://andreprol.com.br)
-- 💼 **LinkedIn:** [linkedin.com/in/andre-prol](https://www.linkedin.com/in/andre-prol)
+- 💼 **LinkedIn:** [linkedin.com/in/andre-dias-moreira-prol](https://www.linkedin.com/in/andre-dias-moreira-prol)
+- ✍️ **Medium:** [medium.com/@andreprol](https://medium.com/@andreprol)
 - 📧 **Email:** andreprol@andreprol.com.br
 
 ---
