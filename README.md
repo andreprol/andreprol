@@ -72,6 +72,9 @@ Leading the full IT stack for a national food & retail chain with 6 major locati
 - 🌐 **Portfolio:** [andreprol.com.br](https://andreprol.com.br)
 - 💼 **LinkedIn:** [linkedin.com/in/andre-dias-moreira-prol](https://www.linkedin.com/in/andre-dias-moreira-prol)
 - ✍️ **Medium:** [medium.com/@andreprol](https://medium.com/@andreprol)
+- 📝 **Dev.to:** [dev.to/andr_diasmoreiraprol_b](https://dev.to/andr_diasmoreiraprol_b)
+- ▶️ **YouTube:** [@andreprol2969](https://www.youtube.com/@andreprol2969)
+- ⚖️ **JusBrasil:** [andreprol19806208.jusbrasil.com.br](https://andreprol19806208.jusbrasil.com.br)
 - 📧 **Email:** andreprol@andreprol.com.br
 
 ---
